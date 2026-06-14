@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella noche que te fuiste
+
+This log tracks the cryptographic history and versioning for the song **Aquella noche que te fuiste** (aquella-noche-que-te-fuiste).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:41:52.168389 | `v1` | `2c30470e23903f80e6743fb71a414887f3604cdf0e2fbe9539b2b30fcb5a2ab2` | `ebc75b26c23892209b6d84765fc2d76f73f1f49545e98c70bc5f021859b7892e` | `2026-06-14_aquella-noche-que-te-fuiste-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
