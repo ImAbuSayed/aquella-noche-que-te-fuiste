@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-noche-que-te-fuiste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Aquella noche que te fuiste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-noche-que-te-fuiste/) |
+| **Get License** | [License this song: Aquella noche que te fuiste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-noche-que-te-fuiste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, aquella noche que te fuiste, dejaste tu olor en mi coche
+> Un vacío en Madrid, esperando que el deseo no se agote
+> Me tienes loco, acelerando por las calles sin frenar
+> Buscando en cada club la forma de volverte a tocar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
